@@ -2,7 +2,7 @@
 
 ### Home Page:
 
-<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
+<p align="center"><img src="./readme_assets/home_Page.gif"></p>
 
 ### Experience Page:
 
