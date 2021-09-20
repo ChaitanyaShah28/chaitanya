@@ -7,7 +7,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "STOCK MANAGER AND I.T PROFESSIOPNAL",
-    cardImage: "assets/images/experience-page/ss.png",
+    cardImage: "assets/images/experience-page/SS.jpg",
     place: "Sukhadia Stones Co.,Ltd Bangkok Thailand",
     time: "(July, 2018 - FEB, 2020)",
     desp: "<li>Worked to Managed Stocks of Gemstones.</li>",
