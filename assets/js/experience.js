@@ -21,7 +21,7 @@ const exp = [
   },
   {
     title: "Oracle Software Engineer",
-    cardImage: "assets/images/experience-page/logo.ico",
+    cardImage: "assets/images/experience-page/stridely.png",
     place: "Stridely Solution India pvt.,ltd,Ahmedhabad GUJARAT",
     time: "(December, 2021 - Present)",
     desp: "<li>Worked as Oracle Apex Developer.</li><li>As Oracle Odi Developer.</li><li>Oracle PL/SQL Developer.</li>",
